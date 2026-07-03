@@ -54,19 +54,6 @@
 - Large Language Models
 - Cloud Computing
 
-💬 Ask me about
-
-- Python
-- React
-- Node.js
-- PostgreSQL
-- Machine Learning
-- Docker
-
-⚡ Fun Fact
-
-> I believe every problem can be solved with the right algorithm and enough coffee ☕
-
 </td>
 
 <td>
@@ -162,87 +149,6 @@
 <img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
-
----
-
-## ⚡ My Expertise
-
-<table align="center">
-
-<tr>
-<td width="220"><b>🐍 Python</b></td>
-<td>
-
-████████████████████ 95%
-
-</td>
-</tr>
-
-<tr>
-<td><b>⚛ React</b></td>
-<td>
-
-██████████████████░░ 90%
-
-</td>
-</tr>
-
-<tr>
-<td><b>🟢 Node.js</b></td>
-<td>
-
-█████████████████░░░ 88%
-
-</td>
-</tr>
-
-<tr>
-<td><b>🐘 PostgreSQL</b></td>
-<td>
-
-████████████████░░░░ 85%
-
-</td>
-</tr>
-
-<tr>
-<td><b>🤖 Machine Learning</b></td>
-<td>
-
-████████████████░░░░ 85%
-
-</td>
-</tr>
-
-<tr>
-<td><b>🐳 Docker</b></td>
-<td>
-
-███████████████░░░░░ 80%
-
-</td>
-</tr>
-
-<tr>
-<td><b>☁ Cloud</b></td>
-<td>
-
-████████████░░░░░░░░ 70%
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙ "The best way to learn is by building."
-
-</div>
 
 ---
 # 🌟 Project Showcase
@@ -406,33 +312,9 @@ LangChain • LLMs • RAG • Vector Search
 </tr>
 
 </table>
----
-
-<div align="center">
-
-# 💼 What I'm Currently Working On
-
-| 🚀 Project | Status |
-|------------|--------|
-| AI Projects | 🟢 Active |
-| Deep Learning | 📖 Learning |
-| Transformer Models | 📖 Learning |
-| Portfolio Improvements | 🚀 Ongoing |
-| Open Source Contributions | 🌱 Starting |
-
-</div>
 
 ---
 
-<div align="center">
-
-## 💡 Favorite Quote
-
-> **"Artificial Intelligence is not replacing developers. Developers using AI will replace those who don't."**
-
-</div>
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -445,109 +327,6 @@ LangChain • LLMs • RAG • Vector Search
 
 ---
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haridharan2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haridharan2006&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haridharan2006&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ GitHub Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haridharan2006&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haridharan2006&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haridharan2006&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haridharan2006&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haridharan2006&theme=tokyonight&utcOffset=5.5"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haridharan2006&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haridharan2006&theme=github_dark"/>
-
-</div>
-
----
-
-# 🚀 Development Journey
-
-```text
-2023  ██████░░░░░░ Started Programming
-
-2024  ██████████░░ Built Full Stack Projects
-
-2025  ██████████████ AI & Machine Learning
-
-2026  ███████████████████ OAuth • LLMs • RAG • Portfolio
-
-Future ████████████████████████████████████ Software Engineer 🚀
-```
-
----
-
-<div align="center">
-
-## 💻 Coding Philosophy
-
-```
-while (!success)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Great software is built one commit at a time."
-
-</div>
-
----
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -573,54 +352,6 @@ while (!success)
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haridharanbs2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Progress |
-|------|----------|
-| 🚀 Master Machine Learning | ████████░░ 80% |
-| 🤖 Learn Deep Learning | ███████░░░ 70% |
-| 🧠 Learn Transformer Models | ██████░░░░ 60% |
-| 📚 Learn Reinforcement Learning | ████░░░░░░ 40% |
-| ☁ Cloud Computing | █████░░░░░ 50% |
-| 🌍 Contribute to Open Source | ███░░░░░░░ 30% |
-| 💼 Software Engineer Role | ███████░░░ 70% |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud-black?style=for-the-badge"/>
-
-</div>
-
----
-
-# 💡 Random Developer Quote
-
-<div align="center">
-
-> **"Success is the sum of small efforts repeated day in and day out."**
 
 </div>
 
