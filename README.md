@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Haridharan%20B%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="images/banner.png" width="100%" alt="Haridharan B S Banner"/>
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Haridharan+B+S;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+New+Things..." />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Haridharan2006&label=Profile+Views&style=for-the-badge&color=00c8ff"/>
+
+<img src="https://img.shields.io/github/followers/Haridharan2006?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/Haridharan2006?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
 
 </div>
 
 ---
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello Developers!
-</h1>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Haridharan2006&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Haridharan2006?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Haridharan2006?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
+# 👋 Hello Developers!
 
 ---
 
