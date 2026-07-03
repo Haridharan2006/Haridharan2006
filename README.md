@@ -40,14 +40,6 @@
 
 🚀 Passionate about solving real-world problems through technology.
 
-🌱 Currently exploring
-
-- Deep Learning
-- Transformers
-- Reinforcement Learning
-- Large Language Models
-- Cloud Computing
-
 </td>
 
 <td>
