@@ -254,7 +254,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z4d2g0a2F3aGVxYzB5cHBtaDJkY2g5cGV5cXF4aDl1bHJlNnYwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="320">
+<img src="images/prescription.png" width="450">
 
 </td>
 
@@ -322,7 +322,7 @@ Machine Learning • NLP • Sentence Transformers
 
 <td>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320">
+<img src="images/resume.jpeg" width="450">
 
 </td>
 
@@ -338,7 +338,7 @@ Machine Learning • NLP • Sentence Transformers
 
 <td>
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320">
+<img src="images/oauth.png" width="450">
 
 </td>
 
@@ -399,53 +399,13 @@ LangChain • LLMs • RAG • Vector Search
 
 <td>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="320">
+<img src="images/chatbot.png" width="450">
 
 </td>
 
 </tr>
 
 </table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320">
-
-</td>
-
-<td width="50%">
-
-## 🌐 Personal Portfolio Website
-
-A modern responsive portfolio showcasing projects, skills and achievements.
-
-### ✨ Features
-
-- Responsive UI
-- Dark Theme
-- Smooth Animations
-- Image Gallery
-- Project Showcase
-- Contact Form
-
-### 🛠 Built With
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
-
-React • CSS3 • Framer Motion
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 <div align="center">
@@ -610,7 +570,7 @@ while (!success)
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:haridharanbs2006@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=haridharanbs2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
